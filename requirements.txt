@@ -1,0 +1,4 @@
+oydiv_rpc
+arrow
+django<1.9
+pyCrypto
