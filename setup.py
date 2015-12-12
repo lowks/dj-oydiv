@@ -35,6 +35,7 @@ setup(
     author_email='dev@ajenta.net',
     url='https://github.com/ajenta/dj-oydiv',
     author='ajenta',
+    description='dj-oydiv is a django app that simplifies videoconferencing with Vidyo.',
     include_package_data=True,
     install_requires=install_requires,
     extras_require={
